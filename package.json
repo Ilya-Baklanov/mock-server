@@ -1,0 +1,29 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mock-server": "nodemon src/index.js --config src/nodemon.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilya-Baklanov/mock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-Baklanov/mock-server/issues"
+  },
+  "homepage": "https://github.com/Ilya-Baklanov/mock-server#readme",
+  "dependencies": {
+    "connect-api-mocker": "^1.10.0",
+    "dotenv": "^16.0.3",
+    "dotenv-expand": "^10.0.0",
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.18.2",
+    "express-http-proxy": "^1.6.3",
+    "nodemon": "^2.0.22"
+  }
+}
