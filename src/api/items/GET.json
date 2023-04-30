@@ -1,0 +1,49 @@
+{
+    "itemsList": [
+        {
+            "id": 0,
+            "img": "Image1.png",
+            "title": "Apple BYZ S852I", 
+            "price": 2927,
+            "rate": 4.7,
+            "type": "hdph",
+            "counts": 1
+        },
+        {
+            "id": 1,
+            "img": "Image1.png",
+            "title": "Apple EarPods", 
+            "price": 2327,
+            "rate": 4.5,
+            "type": "hdph",
+            "counts": 1
+        },
+        {
+            "id": 2,
+            "img": "Image1.png",
+            "title": "Apple EarPods", 
+            "price": 2327,
+            "rate": 4.5,
+            "type": "hdph",
+            "counts": 1
+        },
+        {
+            "id": 3,
+            "img": "Image1.png",
+            "title": "Apple BYZ S8521", 
+            "price": 2927,
+            "rate": 4.7,
+            "type": "hdph",
+            "counts": 1
+        },
+        {
+            "id": 4,
+            "img": "Image1.png",
+            "title": "Apple EarPods", 
+            "price": 2327,
+            "rate": 4.5,
+            "type": "hdph",
+            "counts": 1
+        }
+    ]
+}
